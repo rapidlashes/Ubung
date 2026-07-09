@@ -1,1 +1,1 @@
-I will be adding more and more files of different types here
+ Also ill be updating this readme file from time to time, just for practice
