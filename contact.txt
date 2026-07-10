@@ -1,5 +1,6 @@
 so far I dont have any contacts
 how do I update this .txt file to my repo in github?
 Im writting random things here
+my frist contact 0798055566
 
 
